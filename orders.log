@@ -1,0 +1,12 @@
+{
+  message: 'Order logger',
+  level: 'error',
+  service: 'OrderService',
+  timestamp: '2024-04-26T12:06:00.376Z'
+}
+{
+  message: 'Order logger',
+  level: 'error',
+  service: 'OrderService',
+  timestamp: '2024-04-26T12:18:38.466Z'
+}
