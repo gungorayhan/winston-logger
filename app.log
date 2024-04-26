@@ -1,2 +1,5 @@
 {"level":"info","message":"An info log"}
 {"level":"error","message":"An error log"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"Get","timestamp":"2024-04-26T11:33:54.185Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"Get","timestamp":"2024-04-26T11:35:39.508Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log. childlogger","method":"Get","timestamp":"2024-04-26T11:35:39.512Z"}
